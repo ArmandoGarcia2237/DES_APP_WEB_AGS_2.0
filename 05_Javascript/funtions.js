@@ -1,9 +1,10 @@
-//por cada ejercicio en consola se mostrara en que ejercicio estamos
+//por cada ejercicio en consola se mostrara en que ejercicio estamos además de la creación de que cada ejercicio será una función
 function ejer1(){
     console.log("primer ejercicio");
     var p;
-    var nombre=prompt("como te llamas: ");
-    p=prompt("Hiciste la tarea?");
+    alert("Bienvenido a la actividad de javascript!!!");
+    var nombre=prompt("Cual es tu nombre: ");
+    p=prompt("Hiciste tu tarea?");
     //uso de la sentencia if para saber la respuesta
     if(p=="si"){
     alert("¡¡Bien hecho " + nombre + "!!");
@@ -13,14 +14,14 @@ function ejer1(){
 }
 //función para calcular los grados celcius
 function Far(grados){
-    alert("El resultado es "+((grados-32)*(5/9)));
+    alert("El resultado es: "+((grados-32)*(5/9))+"° celsius");
 }
 
 function ejer2(){
     //segundo ejercicio
     console.log("segundo ejercicio");
     var gf,gc,res;
-    gf=parseInt(prompt("ingrese los grados Farenheit: "));
+    gf=parseInt(prompt("ingrese los grados Farenheit a convertir: "));
     Far(gf);
 }
 
