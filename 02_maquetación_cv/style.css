@@ -1,0 +1,79 @@
+body{
+    background-color: rgb(102, 144, 179);
+    font-family: 'Roboto', sans-serif;
+    color:white;
+}
+
+#Personal{
+    padding: 50px;
+    float: left;
+    width: 350px;
+    background-color: rgb(18, 49, 70);
+    box-shadow: 5px 5px 10px rgba(0,0,0.3);
+}
+
+#name{
+    
+}
+
+#imgp{
+
+}
+
+.topT{
+    color:white;
+    margin-left: 50px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    padding-right: 50px;
+    padding-top: 15px;
+    float: left;
+    width: 1100px;
+    height: auto;
+    background-color: rgb(18, 49, 70);
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0,0,0.3);
+}
+
+#Pinfo{
+    border-bottom: 1px solid white;
+}
+
+.Ptext{
+    border-bottom: 1px solid black;
+}
+
+#info{
+    color:black;
+    position: relative;
+    margin-left: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    float: left;
+    width: 1100px;
+    background-color: white;
+    box-shadow: 5px 5px 10px rgba(0,0,0.3);
+}
+
+#music{
+    margin: 10px; 
+    float: left;
+    box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+}
+
+#tec{
+    margin: 10px; 
+    float: left;
+    box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+}
+
+#grab{
+    margin: 10px; 
+    float: left;
+    box-shadow: 0px 15px 25px rgba(0,0,0,0.50);
+}
+
+h1{
+    font-size: 55px;
+}

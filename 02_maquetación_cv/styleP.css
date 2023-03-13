@@ -1,0 +1,42 @@
+body{
+    margin-left: 120px;
+    margin-right: 120px;
+    background-color: rgb(102, 144, 179);
+    font-family: 'Roboto', sans-serif;
+}
+
+.text{
+    width: auto;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    background-color: white;
+    box-shadow: 5px 5px 10px rgba(0,0,0.3);
+}
+
+.return{
+    position:relative;
+    float: left;
+}
+
+.images{
+    float: left;
+    margin-left: 120px;
+}
+
+.topT{
+    color:white;
+    margin-left: 50px;
+    padding-left: 50px;
+    margin-bottom: 30px;
+    padding-right: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: auto;
+    height: auto;
+    background-color: rgb(18, 49, 70);
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0,0,0.3);
+}
