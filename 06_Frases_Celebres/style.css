@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+    padding: 5px;
+    border: 5px;
+    background-color: darkcyan;
+}
+
+#excusaC{
+    padding: 5px;
+    border: 5px;
+}
+
+#excusa{
+    color: darkcyan;
+}

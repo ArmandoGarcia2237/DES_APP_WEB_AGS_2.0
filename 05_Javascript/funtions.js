@@ -30,6 +30,7 @@ function ejer3(){
     console.log("tercer ejercicio");
     var num,max=-1;
 
+    alert("");
     for(var i=0;i<3;i++){
         num=parseInt(prompt("ingresa el numero "+ (i+1)));
         if(num>max){
